@@ -6,3 +6,4 @@
 
 ### [Дополнительная информация по критериям](Criteria/Navigation_criteria.md) 
 
+### [Реальный пример использования критерия в работе](Criteria/RealUseCase.ipynb)

@@ -272,12 +272,7 @@ $$\lim _{n\to \infty }P(\omega :\mu _{n}(\omega )=m)=e^{-\lambda }{\cfrac {\lamb
 
 **Моменты распределения Бернулли**
 
-$$\mathbb {E} [X]=p$$
-
-$$\operatorname {D} [X]=p(1-p)=pq$$
-
-так как: 
-$$\operatorname {E} X^{2}-\left(\operatorname {E} X\right)^{2}=p-p^{2}=p\cdot (1-p)=pq$$
+![alt text](image-25.png)
 
 Вообще, легко видеть, что
 
