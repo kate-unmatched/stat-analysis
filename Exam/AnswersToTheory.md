@@ -266,11 +266,7 @@ $\mu _{n}$ — количество «успехов».
 
 Тогда если
 
-$$\lim _{n\to \infty }p_{n}=0;$$
-
-$$\lim _{n\to \infty }np_{n}=\lambda ;$$
-
-$$\lambda >0,$$
+![alt text](image-26.png)
 
 то 
 
@@ -337,7 +333,7 @@ $$E_{Y}(t)=e^{\lambda \left(e^{t}-1\right)}$$
 
 Для момента 𝑘-го порядка справедлива общая формула:
 
-$$\mathbb {M} Y^{k}=\sum _{i=0}^{k}\lambda ^{i}\left\{{\begin{matrix}k\\i\end{matrix}}\right\}$$
+![alt text](image-27.png)
 
 где $k=1,2,...$. 
 
